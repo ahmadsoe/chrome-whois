@@ -1,0 +1,16 @@
+{
+  "extName": {
+    "message": "whois",
+    "description": "Extension name"
+  },
+
+  "extDesc": {
+    "message": "Whois domain",
+    "description": "Extension name"
+  },
+
+  "title": {
+    "message": "Whois",
+    "description": "Menu item text"
+  }
+}
